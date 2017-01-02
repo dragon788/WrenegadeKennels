@@ -614,8 +614,8 @@ strong {
 section img {
   max-width: 100%;
 }
-section .third img {
-  max-width: 30%;
+section .sidebyside img {
+  max-width: 49%;
 }
 
 blockquote {
@@ -853,9 +853,12 @@ section #title .credits.right {
   }
 }
 
+#motto{
+	text-align:center;
+}
 
 
-div.wrapper2{
+div.imgTextOverlay{
     float:left; /* important */
     position:relative; /* important(so we can absolutely position the description div */
 }
@@ -867,8 +870,8 @@ div.description{
     /* styling bellow */
     background-color:black;
         color:white;
-    opacity:0.6; /* transparency */
-        filter:alpha(opacity=60); /* IE transparency */
+    opacity:0.8; /* transparency */
+        filter:alpha(opacity=80); /* IE transparency */
 }
 p.description_content{
     padding:10px;
