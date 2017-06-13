@@ -8,6 +8,10 @@ We have finished 75 field champions, 20 dual champions, and winning numerous hou
 
 
 ### Current studs
+![Wrenegade's little bit of Gusto](/images/WrenegadesBitOfGusto.png)
+At stud
+*As Dixieland as you can get*
+Nose, style, class, biddability, early development, 10 months old, pointing, backing, marking, retrieving to hand, already hunts like a pro.
 ![Tony](/images/Tony.jpg)
 Tony
 ![Wrenegade's Perfect Storm](/images/Stormy.jpg)
