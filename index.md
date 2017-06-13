@@ -8,19 +8,29 @@ We have finished 75 field champions, 20 dual champions, and winning numerous hou
 
 
 ### Current studs
+
 ![Wrenegade's little bit of Gusto](/images/WrenegadesBitOfGusto.png)
+
+Wrenegade's little bit of Gusto
 At stud
-*As Dixieland as you can get*
+
+*"As Dixieland as you can get"*
 Nose, style, class, biddability, early development, 10 months old, pointing, backing, marking, retrieving to hand, already hunts like a pro.
+
+
 ![Tony](/images/Tony.jpg)
+
 Tony
+
 ![Wrenegade's Perfect Storm](/images/Stormy.jpg)
+
 Wrenegade's Perfect Storm
 
 ### Passion for the sport
 Having judged at all of the national championships over the years and winning with our dogs, we've seen a collection of the best shorthairs in the history of the breed, and our own bloodlines include multiple FC and NFC dogs. After retiring from the circuit we are relaxing hunting and fishing and continuing to raise quality shorthairs.
 
-For the best results, hunt with the best, here are the results of hunts with Wrenegade dogs.
+For the best results, you need to hunt with the best.
+Here are the results of hunts with Wrenegade dogs.
 ![Bob with pheasants and quails](/images/IMG_20160424_0013.jpg)
 ![Bob Dan and Rick](/images/IMG_20160424_0007.jpg)
 ![Randy](/images/IMG_20160424_0008.jpg)
