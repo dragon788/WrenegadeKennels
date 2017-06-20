@@ -9,12 +9,14 @@ We have finished 75 field champions, 20 dual champions, and winning numerous hou
 
 ### Current studs
 
-![Wrenegade's little bit of Gusto](/images/WrenegadesBitOfGusto.png)
+![Wrenegade's Little Bit of Gusto](/images/2017-06-19-LittleBitOfGusto.png)
 
-Wrenegade's little bit of Gusto
+Wrenegade's Little Bit of Gusto
+
 At stud
 
 *"As Dixieland as you can get"*
+
 Nose, style, class, biddability, early development, 10 months old, pointing, backing, marking, retrieving to hand, already hunts like a pro.
 
 
