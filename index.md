@@ -66,7 +66,7 @@ Tony's son
 Exceptional customers have been the core of our business, and they come back every time they are in the market for a new dog. Let us know what you are looking for in a dog and we'll be sure to pick a match for your style and personality.
 
 Wrenegade Kennels accepts reservations for future litters.
-Please call Bob and Pat Merkel at 319-827-1933 or email info@wrenegadekennels.com to discuss possible future breedings.
+Please call Bob and Pat Merkel at 319-827-1933 or email <info@wrenegadekennels.com> to discuss possible future breedings.
 When it comes to bloodlines Pat has a deep a knowledge of the business and works with Bob in all aspects of the trade.
 
 ![Dixieland's Luke - the foundation sire of Wrenegade Kennels](/images/Dixieland's Luke - the foundation of Wrenegade Kennel breeding.jpg)
