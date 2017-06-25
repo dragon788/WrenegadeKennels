@@ -67,7 +67,7 @@ Exceptional customers have been the core of our business, and they come back eve
 
 Wrenegade Kennels accepts reservations for future litters.
 Please call Bob and Pat Merkel at 319-827-1933 or email <info@wrenegadekennels.com> to discuss possible future breedings.
-When it comes to bloodlines Pat has a deep a knowledge of the business and works with Bob in all aspects of the trade.
+When it comes to bloodlines Pat has just as deep a knowledge of the business and works with Bob in all aspects of the trade.
 
 ![Dixieland's Luke - the foundation sire of Wrenegade Kennels](/images/Dixieland's Luke - the foundation of Wrenegade Kennel breeding.jpg)
 Dixieland's Luke - the foundation sire of Wrenegade Kennels
