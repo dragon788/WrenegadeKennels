@@ -64,6 +64,7 @@ Wrenegade's Full of Gusto
 ![Tony's son](/images/pup a Tony.jpg)
 Tony's son
 ![Male pup of Gus](/images/PupOfGus.jpg)
+Male pup of Gus
 <!-- Add picture of Ruby here -->
 
 Exceptional customers have been the core of our business, and they come back every time they are in the market for a new dog. Let us know what you are looking for in a dog and we'll be sure to pick a match for your style and personality.
